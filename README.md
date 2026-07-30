@@ -1,87 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1216,100:E8A33D&height=220&section=header&text=Adan%20Abdullah&fontSize=60&fontColor=EDEFF2&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Building%20Toward%20AI&descAlignY=58&descSize=20&descColor=9AA5B1"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0E1216,100:161C22&height=180&section=header&text=adan_abdullah&fontSize=40&fontColor=E8A33D&fontAlignY=55&animation=twinkling"/>
 
-<a href="https://github.com/adanabdullah-code">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=3000&pause=800&color=E8A33D&center=true&vCenter=true&width=600&lines=1%2C000%2B+DSA+problems+solved+on+CodeChef;Dual+Diploma+Software+Engineering+Student;Building+an+AI+Student+Assistant;Open+to+Internships+in+Lahore%2C+Pakistan" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=adanabdullah-code&label=Profile%20Views&color=E8A33D&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/adanabdullah-code?label=Followers&style=flat-square&color=49C6B4"/>
-<img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0E1216?style=flat-square&color=161C22&labelColor=0E1216"/>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=2500&pause=700&color=49C6B4&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+software+engineering+student+%7C+lahore%2C+pk;%24+cat+achievements.log;%3E+1%2C000%2B+DSA+problems+solved+on+CodeChef;%24+status+--check;%3E+open+to+internships" />
 
 </div>
 
 <br/>
 
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adanabdullah-code&theme=darkhub&no-frame=true&row=1&column=6" alt="adanabdullah-code" /></a>
-</div>
+```bash
+adan@lahore ~ % neofetch
 
-<br/>
-
-### 🧭 About Me
-
-```yaml
-name: Adan Abdullah
-role: Software Engineering Student
-program: Dual Diploma — GCT-PGA Lahore × Shenzhen Institute of Information Technology
-focus: Data Structures & Algorithms → AI Engineering
-achievement: 1,000+ DSA problems solved on CodeChef
-status: 2/3 years complete — seeking internship in Lahore
-languages_spoken: [Urdu, English, Mandarin (elementary)]
+        .--.          adan@lahore
+       |o_o |         -----------------
+       |:_/ |         OS: CCTE Dual Diploma — Software Engineering
+      //   \ \        Host: GCT-PGA Lahore × Shenzhen Institute of Info. Tech
+     (|     | )        Uptime: 2/3 years completed
+    /'\_   _/`\        Shell: python3 / java / node
+    \___)=(___/        DSA: 1,000+ problems solved (CodeChef)
+                        Focus: AI Engineering
+                        Status: seeking internship — Lahore
 ```
 
-- 🔭 **Currently working on:** [AI Student Assistant](#) — an AI-powered study tool aligned with the PBTE syllabus
-- 🌱 **Currently learning:** Node.js, Express, TypeScript, Pandas, backend development, Mandarin Chinese
-- 👯 **Looking to collaborate on:** AI/ML projects, web development, DSA-focused study groups
-- 🤝 **Looking for help with:** Machine Learning fundamentals & applied AI engineering
-- 💬 **Ask me about:** Python, Java, JavaScript, React, SQL, Data Structures & Algorithms
-- ⚡ **Fun fact:** I've solved 1,000+ DSA problems — I open CodeChef before I open my email.
+<br/>
+
+### `// about.md`
+
+- 🔭 **building:** an AI-powered student assistant, aligned with the PBTE syllabus
+- 🌱 **learning:** Node.js, Express, TypeScript, backend dev, Mandarin Chinese
+- 👯 **want to collab on:** AI/ML projects, web dev, DSA study groups
+- 🤝 **need help with:** ML fundamentals, applied AI engineering
+- 💬 **ask me about:** Python, Java, JS, React, SQL, Data Structures & Algorithms
+- ⚡ **fun fact:** `git log` on my CodeChef would show more commits than my sleep schedule
 
 <br/>
 
-### 🛠️ Tech Stack
+### `// stack.json`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,mysql,c,go,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,mysql,c,go,git,github,vscode&theme=dark" />
 </div>
 
 <br/>
 
-### 📊 GitHub Stats
+### `// stats.exe`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adanabdullah-code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0E1216&title_color=E8A33D&icon_color=49C6B4&text_color=EDEFF2" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adanabdullah-code&theme=github-dark-blue&hide_border=true&background=0E1216&stroke=E8A33D&ring=E8A33D&fire=E8A33D&currStreakLabel=EDEFF2" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adanabdullah-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0E1216&title_color=E8A33D&icon_color=49C6B4&text_color=EDEFF2" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adanabdullah-code&theme=tokyonight&hide_border=true&background=0E1216&stroke=E8A33D&ring=E8A33D&fire=E8A33D&currStreakLabel=EDEFF2" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanabdullah-code&layout=compact&theme=github_dark&hide_border=true&bg_color=0E1216&title_color=E8A33D&text_color=EDEFF2" height="165"/>
-</div>
-
-<br/>
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adanabdullah-code&theme=github-dark&bg_color=0E1216&color=E8A33D&line=E8A33D&point=49C6B4&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanabdullah-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0E1216&title_color=E8A33D&text_color=EDEFF2" height="165"/>
 </div>
 
 <br/>
 
-### 🔗 Connect With Me
+### `// contributions.snake`
 
 <div align="center">
-<a href="https://linkedin.com/in/adanabdullah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:AbdullahAdan528@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/adanabdullah" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E8A33D?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="https://github.com/AdanAbdullah-code/AdanAbdullah-code/blob/main/Adan_Abdullah_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-49C6B4?style=for-the-badge&logo=readdotcv&logoColor=black"/></a>
+<img src="https://raw.githubusercontent.com/adanabdullah-code/adanabdullah-code/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
+<sub align="center">↳ animated snake eating my contribution graph — needs a one-time GitHub Actions setup (details below)</sub>
+
+<br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A33D,100:0E1216&height=100&section=footer"/>
+<div align="center">
+
+```bash
+adan@lahore ~ % cat connect.sh
+```
+
+<a href="https://linkedin.com/in/adanabdullah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E1216?style=flat-square&logo=linkedin&logoColor=E8A33D"/></a>
+<a href="mailto:AbdullahAdan528@gmail.com"><img src="https://img.shields.io/badge/Gmail-0E1216?style=flat-square&logo=gmail&logoColor=E8A33D"/></a>
+<a href="https://www.codechef.com/users/adanabdullah" target="_blank"><img src="https://img.shields.io/badge/CodeChef-0E1216?style=flat-square&logo=codechef&logoColor=E8A33D"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0E1216?style=flat-square&logo=vercel&logoColor=E8A33D"/></a>
+<a href="https://github.com/AdanAbdullah-code/AdanAbdullah-code/blob/main/Adan_Abdullah_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-0E1216?style=flat-square&logo=readdotcv&logoColor=E8A33D"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:161C22,100:0E1216&height=100&section=footer"/>
