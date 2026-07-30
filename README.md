@@ -1,125 +1,102 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Adan Abdullah</h1>
+<h3 align="center">Software Engineering Student building toward AI | Lahore, Pakistan 🇵🇰</h3>
 
-<!-- TOP PORTFOLIO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=161C22&height=220&section=header&text=ADAN%20ABDULLAH&fontSize=42&fontColor=E8A33D&fontAlignY=38&desc=Dual-Diploma%20Software%20Engineering%20Student%20%7C%201%2C000%2B%20DSA%20Solved&descSize=18&descColor=49C6B4&descAlignY=62" width="100%" alt="ADAN ABDULLAH Header Banner"/>
+<p align="center">
+Dual Diploma SE Student (GCT-PGA Lahore × Shenzhen Institute of Information Technology, China).
+Solved <strong>1,000+ DSA problems</strong> on CodeChef — now putting that foundation to work on real, live software.
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-2026-brightgreen?style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-blue?style=for-the-badge&logo=googlemaps" alt="Location" />
+  <img src="https://img.shields.io/badge/DSA_Solved-1000%2B-orange?style=for-the-badge&logo=codechef" alt="CodeChef" />
+</p>
 
-<br/>
+---
 
-<div align="center">
-
-<!-- STATUS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=adanabdullah-code&label=Profile%20Views&color=E8A33D&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/adanabdullah-code?label=Followers&style=flat-square&color=49C6B4"/>
-<img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-161C22?style=flat-square&color=161C22&labelColor=0E1216"/>
-<img src="https://img.shields.io/badge/Status-Seeking%20Software%20Internship-49C6B4?style=flat-square&color=49C6B4&labelColor=0E1216"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- TROPHY SHOWCASE -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adanabdullah-code&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-## `// boot_sequence.sh`
-
+### // boot_sequence
 ```bash
-adan@codechef-workspace:~$ whoami
-> ADAN ABDULLAH — Dual-Diploma Software Engineering Scholar (GCT Lahore × SZIIT Shenzhen)
-
-adan@codechef-workspace:~$ cat status.log
-> 1,000+ DSA Problems Solved on CodeChef (Arrays, Trees, Graph, DP, Recursion)
-> Currently building AI Student Assistant mapped to Punjab Board syllabus
-> Seeking Software Engineering Internships in Lahore (On-site / Hybrid / Remote)
+$ whoami
+> Adan Abdullah (Software Engineering Student building toward AI)
+$ status
+> Building: AI Student Assistant
+$ codechef_stats
+> Solved: 1,000+ Problems | Location: Lahore, Pakistan 🇵🇰
 ```
 
-<br/>
+---
 
-## `// about.md`
+### // about.md
 
-- 🔭 **Building:** AI-Powered Student Assistant aligned with PBTE syllabus (Node.js, Express, React, Gemini API)
-- 🌱 **Learning:** Full-Stack Architecture, Node.js Microservices, Mandarin Chinese & Advanced Algorithms
-- 👯 **Want to collab on:** AI/ML applications, Web Development & DSA competitive coding
-- 💬 **Ask me about:** C++, Python, Java, JavaScript, React, MySQL, Data Structures & Algorithms
-- ⚡ **Fun fact:** `git log` on my CodeChef practice repository shows 1,000+ solved problems!
+- 🎓 **Building:** [AI Student Assistant](#) — An AI-powered study tool aligned with the PBTE (Punjab Board of Technical Education) syllabus
+- 🌱 **Learning:** Node.js & Express, TypeScript, Pandas & Data Science, Backend Systems Architecture, Mandarin Chinese 🇨🇳
+- 👯 **Want to collaborate on:** AI / ML Projects & Intelligent Agents, Full Stack Web Applications, DSA Problem Solving Study Groups
+- 🤝 **Need help with:** Machine Learning Fundamentals, Applied AI Engineering & Vector Databases
+- 💬 **Ask me about:** Python & Data Processing, Java & C Programming, JavaScript, React & Web Development, SQL Databases & Relational Schema Design, Data Structures & Algorithms (1,000+ solved)
+- ⚡ **Fun fact:** I've solved 1,000+ DSA problems on CodeChef — git log on my profile shows more commits than my sleep schedule!
 
 <details>
-<summary><b>📖 Read My Background & Academic Journey (Click to expand)</b></summary>
+<summary><b>📖 Why I'm doing this — click to expand</b></summary>
+<br/>
+<p>My passion lies at the intersection of algorithmic efficiency and artificial intelligence. By combining rigorous Data Structures & Algorithms problem-solving with cutting-edge AI architectures, I aim to build impactful software systems that solve real educational and industry challenges.</p>
+</details>
+
+---
+
+### // stack.json
+
+<p align="left">
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c language" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql / sql" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+---
+
+### // stats.exe
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adanabdullah-code&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adanabdullah-code&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### // contributions.snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adanabdullah-code/adanabdullah-code/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<details>
+<summary><b>🎓 Certifications — click to expand</b></summary>
 <br/>
 
-I am pursuing a Dual Diploma in Software Engineering offered jointly by Government College of Technology (GCT-PGA) Lahore and Shenzhen Institute of Information Technology (SZIIT), China.
-
-Over the past 2 years, I have built a deep problem-solving foundation by solving **1,000+ DSA challenges on CodeChef** in C++, Java, and Python. I hold verified certificates across Data Structures, Java, C, SQL, and Web Development. Now, I am actively applying this algorithmic rigor to production web applications and AI student tools.
+- [x] **Data Structures & Algorithms (Basic & Intermediate)** — CodeChef
+- [x] **Java & Java Problem Practice** — CodeChef
+- [x] **SQL & Database Queries** — CodeChef
+- [x] **C Language & Practice Problems** — CodeChef
+- [x] **HTML/CSS & CSS Intermediate** — CodeChef
 
 </details>
 
-<br/>
+---
 
-## `// stack.json`
+### // connect.sh
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,mysql,c,go,git,github,vscode,express,tailwind,cpp&theme=dark" alt="Technical Stack Icons" />
-
-</div>
-
-<br/>
-
-## `// stats.exe`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adanabdullah-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0E1216&title_color=E8A33D&icon_color=49C6B4&text_color=EDEFF2" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adanabdullah-code&theme=tokyonight&hide_border=true&background=0E1216&stroke=E8A33D&ring=E8A33D&fire=E8A33D&currStreakLabel=EDEFF2" height="165" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanabdullah-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0E1216&title_color=E8A33D&text_color=EDEFF2" height="165" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-## `// verified_certifications.log`
-
-- 🏆 **Data Structures & Algorithms (Basic & Intermediate)** — CodeChef Verified
-- 🏆 **Java & Java Problem Practice** — CodeChef Verified
-- 🏆 **SQL & Relational Databases** — CodeChef Verified
-- 🏆 **C Language & System Fundamentals** — CodeChef Verified
-- 🏆 **HTML/CSS & Modern Web UI** — CodeChef Verified
-
-<br/>
-
-## `// connect.sh`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/adan-abdullah" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0E1216?style=for-the-badge&logo=linkedin&logoColor=E8A33D"/>
-</a>
-<a href="mailto:AbdullahAdan528@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0E1216?style=for-the-badge&logo=gmail&logoColor=E8A33D"/>
-</a>
-<a href="https://www.codechef.com/users/abdullahadan" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-0E1216?style=for-the-badge&logo=codechef&logoColor=E8A33D"/>
-</a>
-<a href="https://github.com/adanabdullah-code" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0E1216?style=for-the-badge&logo=github&logoColor=E8A33D"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Crafted with precision for Adan Abdullah's Developer Profile.</sub>
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/adanabdullah" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:AbdullahAdan528@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.codechef.com/users/adanabdullah" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://github.com/adanabdullah-code" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/AdanAbdullah-code/AdanAbdullah-code/blob/main/Adan_Abdullah_Resume.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+</p>
