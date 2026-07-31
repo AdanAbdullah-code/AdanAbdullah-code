@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adan Abdullah</h1>
-<h3 align="center">Software Engineering Student building toward AI | Lahore, Pakistan 🇵🇰</h3>
+<p align="center"><img src="./assets/hero-typewriter.svg" alt="Adan Abdullah" width="800"/></p><h3 align="center">Software Engineering Student building toward AI | Lahore, Pakistan 🇵🇰</h3>
 
 <p align="center">
 Dual Diploma SE Student (GCT-PGA Lahore × Shenzhen Institute of Information Technology, China).
@@ -14,17 +13,7 @@ Solved <strong>1,000+ DSA problems</strong> on CodeChef — now putting that fou
 
 ---
 
-### // boot_sequence
-```bash
-$ whoami
-> Adan Abdullah (Software Engineering Student building toward AI)
-$ status
-> Building: AI Student Assistant
-$ codechef_stats
-> Solved: 1,000+ Problems | Location: Lahore, Pakistan 🇵🇰
-```
-
----
+<p align="center"><img src="./assets/boot-sequence.svg" alt="boot sequence" width="800"/></p>
 
 ### // about.md
 
@@ -59,13 +48,8 @@ $ codechef_stats
 </p>
 
 ---
+<p align="center"><img src="./assets/skills-bars.svg" alt="skills" width="780"/></p>
 
-### // stats.exe
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adanabdullah-code&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adanabdullah-code&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
