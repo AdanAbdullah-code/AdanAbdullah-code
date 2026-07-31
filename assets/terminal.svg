@@ -1,0 +1,75 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="terminal boot sequence">
+  <defs>
+    <linearGradient id="tGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161C22"/>
+      <stop offset="100%" stop-color="#0E1216"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="320" rx="12" fill="url(#tGrad)"/>
+  <rect x="0.5" y="0.5" width="899" height="319" rx="12" fill="none" stroke="#5C6672" stroke-opacity="0.3"/>
+
+  <rect x="0" y="0" width="900" height="38" rx="12" fill="#0E1216"/>
+  <rect x="0" y="26" width="900" height="12" fill="#0E1216"/>
+  <circle cx="26" cy="19" r="6" fill="#E05252" opacity="0.85"/>
+  <circle cx="46" cy="19" r="6" fill="#E8C33D" opacity="0.85"/>
+  <circle cx="66" cy="19" r="6" fill="#5FBE72" opacity="0.85"/>
+  <text x="450.0" y="24" text-anchor="middle" font-family="'IBM Plex Mono',monospace" font-size="12" fill="#5C6672">adan@lahore: ~</text>
+  <clipPath id="clipL0">
+    <rect x="38" y="50" width="0" height="24">
+      <animate attributeName="width" from="0" to="860" begin="0.400s" dur="0.400s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <text x="40" y="70" font-family="'IBM Plex Mono',monospace" font-size="15" fill="#49C6B4" clip-path="url(#clipL0)">$ whoami</text>
+  <clipPath id="clipL1">
+    <rect x="38" y="76" width="0" height="24">
+      <animate attributeName="width" from="0" to="860" begin="1.150s" dur="1.596s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <text x="40" y="96" font-family="'IBM Plex Mono',monospace" font-size="15" fill="#EDEFF2" clip-path="url(#clipL1)">&gt; adan_abdullah — software engineering student, lahore pk</text>
+  <clipPath id="clipL3">
+    <rect x="38" y="128" width="0" height="24">
+      <animate attributeName="width" from="0" to="860" begin="3.346s" dur="1.100s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <text x="40" y="148" font-family="'IBM Plex Mono',monospace" font-size="15" fill="#49C6B4" clip-path="url(#clipL3)">$ cat achievements.log</text>
+  <clipPath id="clipL4">
+    <rect x="38" y="154" width="0" height="24">
+      <animate attributeName="width" from="0" to="860" begin="4.796s" dur="1.612s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <text x="40" y="174" font-family="'IBM Plex Mono',monospace" font-size="15" fill="#E8A33D" clip-path="url(#clipL4)">&gt; 1,000+ DSA problems solved · CodeChef (Basic + Intermediate)</text>
+  <clipPath id="clipL5">
+    <rect x="38" y="180" width="0" height="24">
+      <animate attributeName="width" from="0" to="860" begin="6.758s" dur="1.624s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <text x="40" y="200" font-family="'IBM Plex Mono',monospace" font-size="15" fill="#EDEFF2" clip-path="url(#clipL5)">&gt; Dual Diploma — Software Engineering · 2/3 years complete</text>
+  <clipPath id="clipL6">
+    <rect x="38" y="206" width="0" height="24">
+      <animate attributeName="width" from="0" to="860" begin="8.732s" dur="1.540s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <text x="40" y="226" font-family="'IBM Plex Mono',monospace" font-size="15" fill="#EDEFF2" clip-path="url(#clipL6)">&gt; shipping: AI Student Assistant (PBTE-aligned chatbot)</text>
+  <clipPath id="clipL8">
+    <rect x="38" y="258" width="0" height="24">
+      <animate attributeName="width" from="0" to="860" begin="10.872s" dur="0.800s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <text x="40" y="278" font-family="'IBM Plex Mono',monospace" font-size="15" fill="#49C6B4" clip-path="url(#clipL8)">$ status --check</text>
+  <clipPath id="clipL9">
+    <rect x="38" y="284" width="0" height="24">
+      <animate attributeName="width" from="0" to="860" begin="12.022s" dur="0.832s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <text x="40" y="304" font-family="'IBM Plex Mono',monospace" font-size="15" fill="#5FBE72" clip-path="url(#clipL9)">&gt; open_to_internship: true</text>
+  <clipPath id="clipL10">
+    <rect x="38" y="310" width="0" height="24">
+      <animate attributeName="width" from="0" to="860" begin="13.204s" dur="0.896s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <text x="40" y="330" font-family="'IBM Plex Mono',monospace" font-size="15" fill="#9AA5B1" clip-path="url(#clipL10)">&gt; location: Lahore, Pakistan</text>
+  <rect x="280.8" y="316" width="9" height="17" fill="#E8A33D" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="14.100s" dur="0.2s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" begin="14.300s" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

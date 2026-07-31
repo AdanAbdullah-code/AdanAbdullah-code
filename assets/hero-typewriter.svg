@@ -1,0 +1,60 @@
+<svg viewBox="0 0 900 190" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
+  <defs>
+    <clipPath id="clipL1"><rect x="66" y="88" width="0" height="46" class="grow1"/></clipPath>
+    <clipPath id="clipL2"><rect x="62" y="140" width="0" height="30" class="grow2"/></clipPath>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <style>
+    .frame{ fill:#0b0e14; stroke:#232a38; stroke-width:1.5; }
+    .bar{ fill:#10141c; }
+    .divider{ stroke:#1a2029; stroke-width:1; }
+    .dot{ }
+    .dotr{ fill:#ff5f56; } .dota{ fill:#ffbd2e; } .dotg{ fill:#27c93f; }
+    .title{ fill:#4a5262; font-size:12px; }
+    .prompt{ fill:#8be28b; font-size:20px; font-weight:600; }
+    .name{ fill:#eaf3fb; font-size:34px; font-weight:700; }
+    .tagline{ fill:#9aa4b2; font-size:17px; }
+    #clipL1 rect{ animation: grow1 9s ease-in-out infinite; }
+    #clipL2 rect{ animation: grow2 9s ease-in-out infinite; }
+    @keyframes grow1{
+      0%,6%   { width:0; }
+      34%,75% { width:470px; }
+      85%,100%{ width:0; }
+    }
+    @keyframes grow2{
+      0%,38%  { width:0; }
+      62%,75% { width:640px; }
+      83%,100%{ width:0; }
+    }
+    .curA{ animation: curA_win 9s ease-in-out infinite; }
+    .curB{ animation: curB_win 9s ease-in-out infinite; }
+    .curA rect, .curB rect{ fill:#6ee7ff; animation: blink 0.9s steps(1,end) infinite; }
+    @keyframes blink{ 50%{ opacity:0; } }
+    @keyframes curA_win{ 0%,6%{opacity:0;} 8%,36%{opacity:1;} 38%,100%{opacity:0;} }
+    @keyframes curB_win{ 0%,36%{opacity:0;} 38%,83%{opacity:1;} 85%,100%{opacity:0;} }
+  </style>
+
+  <rect class="frame" x="1" y="1" width="898" height="188" rx="14" filter="url(#soft)"/>
+  <rect class="bar" x="1.5" y="1.5" width="897" height="38" rx="12"/>
+  <line class="divider" x1="0" y1="40" x2="900" y2="40"/>
+  <circle class="dotr" cx="28" cy="20" r="6"/>
+  <circle class="dota" cx="48" cy="20" r="6"/>
+  <circle class="dotg" cx="68" cy="20" r="6"/>
+  <text class="title" x="450" y="24" text-anchor="middle">adan@profile — hero.sh</text>
+
+  <text class="prompt" x="30" y="112">$</text>
+  <g clip-path="url(#clipL1)">
+    <text class="name" x="66" y="120">Adan Abdullah</text>
+  </g>
+
+  <text class="prompt" x="28" y="162" font-size="16">›</text>
+  <g clip-path="url(#clipL2)">
+    <text class="tagline" x="62" y="162">Software Engineering Student building toward AI</text>
+  </g>
+
+  <g class="curA"><rect x="344" y="90" width="3" height="34"/></g>
+  <g class="curB"><rect x="545" y="142" width="3" height="26"/></g>
+</svg>

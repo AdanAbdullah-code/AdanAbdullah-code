@@ -1,0 +1,54 @@
+<svg viewBox="0 0 820 300" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
+  <defs>
+    <filter id="soft2" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <style>
+    .frame{ fill:#0b0e14; stroke:#232a38; stroke-width:1.5; }
+    .bar{ fill:#10141c; }
+    .divider{ stroke:#1a2029; stroke-width:1; }
+    .dotr{ fill:#ff5f56; } .dota{ fill:#ffbd2e; } .dotg{ fill:#27c93f; }
+    .title{ fill:#4a5262; font-size:12px; }
+    .cmd{ fill:#8be28b; font-size:15px; }
+    .out{ fill:#d7dde6; font-size:15px; }
+    .hi{ fill:#6ee7ff; }
+    .amber{ fill:#ffb454; }
+
+    .l1{ animation: r1 8s ease-in-out infinite; }
+    .l2{ animation: r2 8s ease-in-out infinite; }
+    .l3{ animation: r3 8s ease-in-out infinite; }
+    .l4{ animation: r4 8s ease-in-out infinite; }
+    .l5{ animation: r5 8s ease-in-out infinite; }
+    .l6{ animation: r6 8s ease-in-out infinite; }
+    .cur{ animation: r6 8s ease-in-out infinite; }
+    .cur rect{ animation: blink 0.9s steps(1,end) infinite; }
+
+    @keyframes r1{ 0%,5%{opacity:0;} 7%,85%{opacity:1;} 95%,100%{opacity:0;} }
+    @keyframes r2{ 0%,15%{opacity:0;} 17%,85%{opacity:1;} 95%,100%{opacity:0;} }
+    @keyframes r3{ 0%,30%{opacity:0;} 32%,85%{opacity:1;} 95%,100%{opacity:0;} }
+    @keyframes r4{ 0%,40%{opacity:0;} 42%,85%{opacity:1;} 95%,100%{opacity:0;} }
+    @keyframes r5{ 0%,55%{opacity:0;} 57%,85%{opacity:1;} 95%,100%{opacity:0;} }
+    @keyframes r6{ 0%,65%{opacity:0;} 67%,85%{opacity:1;} 95%,100%{opacity:0;} }
+    @keyframes blink{ 50%{opacity:0;} }
+  </style>
+
+  <rect class="frame" x="1" y="1" width="818" height="298" rx="14" filter="url(#soft2)"/>
+  <rect class="bar" x="1.5" y="1.5" width="817" height="38" rx="12"/>
+  <line class="divider" x1="0" y1="40" x2="820" y2="40"/>
+  <circle class="dotr" cx="28" cy="20" r="6"/>
+  <circle class="dota" cx="48" cy="20" r="6"/>
+  <circle class="dotg" cx="68" cy="20" r="6"/>
+  <text class="title" x="410" y="24" text-anchor="middle">adan@profile — boot_sequence.sh</text>
+
+  <g class="l1"><text class="cmd" x="30" y="82">$ whoami</text></g>
+  <g class="l2"><text class="out" x="30" y="112">&gt; <tspan class="hi">Adan Abdullah</tspan> (Software Engineering Student building toward AI)</text></g>
+
+  <g class="l3"><text class="cmd" x="30" y="150">$ status</text></g>
+  <g class="l4"><text class="out" x="30" y="180">&gt; Building: <tspan class="amber">AI Student Assistant</tspan></text></g>
+
+  <g class="l5"><text class="cmd" x="30" y="218">$ codechef_stats</text></g>
+  <g class="l6"><text class="out" x="30" y="248">&gt; Solved: <tspan class="hi">1,000+ Problems</tspan> | Location: Lahore, Pakistan 🇵🇰</text></g>
+
+  <g class="cur"><rect x="30" y="258" width="9" height="16" fill="#6ee7ff"/></g>
+</svg>
